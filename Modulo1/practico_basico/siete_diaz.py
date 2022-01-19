@@ -24,5 +24,5 @@ elif (lunes == dia):
     print("Es viernes")
 elif (lunes == dia):
     print("Es sabado")
-elif (dia != dia)
+elif (dia >7 ):
     print("error")
