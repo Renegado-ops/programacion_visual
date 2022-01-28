@@ -11,6 +11,9 @@ print (total)
 
 pago = int(input("Digite el pago "))
 
+
+
+#itbis dos programas juntos
 itbis = (total * 18/100)
 
 devuelta = pago - total
