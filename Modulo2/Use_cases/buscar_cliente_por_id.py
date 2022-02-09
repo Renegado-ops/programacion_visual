@@ -20,7 +20,7 @@ conexion = mysql.connector.connect(
 cursor = conexion.cursor()
 
 #ejecutar un query (sentencia sql)
-cursor.execute("SELECT first_name, last_name FROM customer WHERE customer_id ='"+cliente+"'" +"AND store_id = 1")
+cursor.execute("SELECT first_name, last_name FROM customer WHERE customer_id = 1 or store_id = 1")
 
 #guardar en una variable todos los resultados del query
 resultado = cursor.fetchall()
