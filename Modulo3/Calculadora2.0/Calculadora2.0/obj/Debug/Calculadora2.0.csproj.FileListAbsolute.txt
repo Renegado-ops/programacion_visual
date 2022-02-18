@@ -1,0 +1,8 @@
+T:\erick\Calculadora2.0\Calculadora2.0\bin\Debug\Calculadora2.0.exe.config
+T:\erick\Calculadora2.0\Calculadora2.0\bin\Debug\Calculadora2.0.exe
+T:\erick\Calculadora2.0\Calculadora2.0\bin\Debug\Calculadora2.0.pdb
+T:\erick\Calculadora2.0\Calculadora2.0\obj\Debug\Calculadora2._0.formCalc.resources
+T:\erick\Calculadora2.0\Calculadora2.0\obj\Debug\Calculadora2._0.Properties.Resources.resources
+T:\erick\Calculadora2.0\Calculadora2.0\obj\Debug\Calculadora2.0.csproj.GenerateResource.Cache
+T:\erick\Calculadora2.0\Calculadora2.0\obj\Debug\Calculadora2.0.exe
+T:\erick\Calculadora2.0\Calculadora2.0\obj\Debug\Calculadora2.0.pdb

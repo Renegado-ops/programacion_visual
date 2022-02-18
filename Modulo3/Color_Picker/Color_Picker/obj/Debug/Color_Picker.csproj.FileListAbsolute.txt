@@ -1,0 +1,9 @@
+T:\erick\Color_Picker\Color_Picker\bin\Debug\Color_Picker.exe.config
+T:\erick\Color_Picker\Color_Picker\bin\Debug\Color_Picker.exe
+T:\erick\Color_Picker\Color_Picker\bin\Debug\Color_Picker.pdb
+T:\erick\Color_Picker\Color_Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+T:\erick\Color_Picker\Color_Picker\obj\Debug\Color_Picker.csproj.GenerateResource.Cache
+T:\erick\Color_Picker\Color_Picker\obj\Debug\Color_Picker.exe
+T:\erick\Color_Picker\Color_Picker\obj\Debug\Color_Picker.pdb
+T:\erick\Color_Picker\Color_Picker\obj\Debug\Color_Picker.csprojResolveAssemblyReference.cache
+T:\erick\Color_Picker\Color_Picker\obj\Debug\Color_Picker.FormColorPicker.resources
